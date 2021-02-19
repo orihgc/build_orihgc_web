@@ -46,7 +46,14 @@ flutter:
 
     # To add assets to your application, add an assets section, like this:
   assets:
+    - images/korea/akfms/
     - images/korea/buding/
+    - images/korea/dounai/
+    - images/korea/hanbaobei/
+    - images/korea/missedyou/
+    - images/korea/qunlun/
+    - images/korea/shuangC/
+    - images/korea/timo/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
