@@ -4,14 +4,14 @@ import 'dart:html';
 import 'package:flutter/material.dart';
 
 List<String> tiMoPreviewImageList = [
-  "images/korea/tiMo/提莫1.png",
-  "images/korea/tiMo/提莫4.png",
-  "images/korea/tiMo/提莫5.png",
-  "images/korea/tiMo/提莫6.png",
-  "images/korea/tiMo/提莫8.png",
-  "images/korea/tiMo/提莫7.png",
-  "images/korea/tiMo/提莫2.png",
-  "images/korea/tiMo/提莫3.png",
+  "images/korea/timo/提莫1.png",
+  "images/korea/timo/提莫4.png",
+  "images/korea/timo/提莫5.png",
+  "images/korea/timo/提莫6.png",
+  "images/korea/timo/提莫8.png",
+  "images/korea/timo/提莫7.png",
+  "images/korea/timo/提莫2.png",
+  "images/korea/timo/提莫3.png",
 ];
 
 class TiMoPreviewPage extends StatelessWidget {
